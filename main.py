@@ -6,6 +6,7 @@ if __name__ == '__main__':
     window = pygame.display.set_mode(size)
     fps = 60
     clock = pygame.time.Clock()
+    print('test')
 
     running = True
 
